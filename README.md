@@ -60,5 +60,3 @@ manage.py - main entry point
 What I Learned  
 Through this project, I learned how to build REST APIs using Django REST Framework, implement validation, use ViewSets and routers, and structure backend applications properly.
 
-Author  
-Suvathi
